@@ -12,4 +12,13 @@ public class House {
         }
         System.out.println("\n感謝您，我的老闆，您如此慷慨大方！");
     }
+
+    static void num(String[] args){
+        int num1 = 10;
+        long num2 = 30;
+        long num3 = 10000000000L;
+        float num4 = 10.0F;
+    }
 }
+
+
